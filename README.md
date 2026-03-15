@@ -201,11 +201,12 @@ Upload an image file and the API will return the predicted class.
 
 Example Response
 
-```json```
+```json
 {
   "prediction": "Cat",
   "confidence": 0.94
 }
+```
 
 ---
 
