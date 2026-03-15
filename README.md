@@ -145,17 +145,13 @@ Streamlit Web view
 
 
 ai-image-classifier-web-app
-
 api
 └── main.py
-
 model
 └── image_model.h5
-
 dataset
 ├── train
 └── test
-
 assets
 └── training_results.png
 
