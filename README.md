@@ -117,15 +117,25 @@ Example Streamlit components used:
 
 
 User Image
+
 ↓
+
 FastAPI API
+
 ↓
+
 Image Preprocessing
+
 ↓
+
 CNN Model
+
 ↓
+
 Prediction Result
+
 ↓
+
 Streamlit Web view
 
 
