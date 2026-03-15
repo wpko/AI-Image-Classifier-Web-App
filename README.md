@@ -143,18 +143,20 @@ Streamlit Web view
 
 # Project Structure
 
-
 ai-image-classifier-web-app
-api
-└── main.py
-model
-└── image_model.h5
-dataset
-├── train
-└── test
-assets
+│
+├── api
+│ └── main.py
+│
+├── model
+│ └── image_model.h5
+│
+├── dataset
+│ ├── train
+│ └── test
+│
+└── assets
 └── training_results.png
-
 requirements.txt
 README.md
 
