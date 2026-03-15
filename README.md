@@ -205,7 +205,7 @@ Example Response
 {
   "prediction": "Cat",
   "confidence": 0.94
-}
+}```
 Future Improvements
 
 Improve model accuracy using larger datasets
