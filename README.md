@@ -141,26 +141,27 @@ Streamlit Web view
 
 ---
 
-# Project Structure
+## 📂 Project Structure
 
+```text
 ai-image-classifier-web-app
 │
 ├── api
-│ └── main.py
+│   └── main.py
 │
 ├── model
-│ └── image_model.h5
+│   └── image_model.h5
 │
 ├── dataset
-│ ├── train
-│ └── test
+│   ├── train
+│   └── test
 │
-└── assets
-└── training_results.png
-requirements.txt
-README.md
-
----
+├── assets
+│   └── training_results.png
+│
+├── requirements.txt
+└── README.md
+```
 
 📷 How to Use
 
