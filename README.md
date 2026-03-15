@@ -1,4 +1,3 @@
-# AI-Image-Classifier-Web-App
 # AI Image Classifier Web App
 
 An AI-powered **Image Classification Web Application** that predicts image categories using a Convolutional Neural Network (CNN).
