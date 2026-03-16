@@ -32,12 +32,12 @@ The frontend interface is built using **Streamlit**, making it simple, interacti
 
 | Metric | Value |
 |------|------|
-| Training Accuracy | 91% |
-| Validation Accuracy | 79% |
-| Training Loss | 0.22 |
-| Validation Loss | 0.50 |
+| Training Accuracy | 97.39% |
+| Validation Accuracy | 98.16% |
+| Training Loss | 0.0678 |
+| Validation Loss | 0.0524 |
 
-The model shows good performance with acceptable generalization.
+The model shows good performance.
 
 ---
 
