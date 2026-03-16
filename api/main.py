@@ -5,8 +5,12 @@ from PIL import Image
 import io
 
 app = FastAPI()
+model = None
 
-model = tf.keras.models.load_model("model/image_model.keras")
+@app.on_event("startup")
+def load_model():
+    global model
+    model = tf.keras.models.load_model("model/image_model.keras")
 
 IMG_SIZE = (224,224)
 
@@ -23,6 +27,10 @@ def home():
 
 @app.post('/predict')
 async def predict(file: UploadFile = File(...)):
+    global model
+    if model is None:
+        return {"error":"Model not loaded yet"}
+        
     contents = await file.read()
     image = Image.open(io.BytesIO(contents)).convert("RGB")
     img = preprocess_image(image)
