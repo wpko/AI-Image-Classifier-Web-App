@@ -301,7 +301,7 @@ Add model monitoring
 
 ## Author
 
-**Wai Lay**  
+**Wai Phyo Ko**  
 Aspiring Python / AI Developer
 
 🔗 **GitHub:** [wpko](https://github.com/wpko)
