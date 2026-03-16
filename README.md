@@ -67,7 +67,7 @@ The MobileNetV2 base layers are frozen during training to preserve pretrained fe
 | Training Loss | 0.0678 |
 | Validation Loss | 0.0524 |
 
-The model shows good performance.
+The model shows excellent performance.
 
 ---
 
