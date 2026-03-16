@@ -10,7 +10,7 @@ model = None
 @app.on_event("startup")
 def load_model():
     global model
-    model = tf.keras.models.load_model("model/image_model.keras")
+    model = tf.keras.models.load_model("model/image_model.h5")
 
 IMG_SIZE = (224,224)
 
