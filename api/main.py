@@ -6,7 +6,7 @@ import io
 
 app = FastAPI()
 
-model = tf.keras.models.load_model("model/image_model.h5", compile=False)
+model = tf.keras.models.load_model("model/image_model.keras")
 
 IMG_SIZE = (224,224)
 
