@@ -1,7 +1,6 @@
 fastapi
 streamlit
 tensorflow==2.13.0
-keras
 numpy<2
 matplotlib
 pillow
