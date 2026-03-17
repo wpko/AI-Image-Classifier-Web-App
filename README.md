@@ -33,7 +33,7 @@ This approach provides:
 # Live Demo
 
 Streamlit Dashboard  
-[https://your-streamlit-render-url.onrender.com](https://ai-sentiment-analysis-dashboard-streamlit.onrender.com)
+[https://your-streamlit-render-url.onrender.com](https://ai-image-classifier-web-app-streamlit.onrender.com)
 
 FastAPI API  
 [https://your-api-render-url.onrender.com](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
@@ -47,10 +47,10 @@ API Documentation
 
 ## Screenshot
 
-![Dashboard](dashboard/fastAPI.png)
-![Dashboard](dashboard/streamlit.png)
-![Dashboard](dashboard/streamlit1.png)
-![Dashboard](dashboard/streamlit2.png)
+![Dashboard](assests/fastAPI.png)
+![Dashboard](assests/fastAPI1.png)
+![Dashboard](assests/streamlit.png)
+![Dashboard](assests/streamlit1.png)
 
 ---
 
@@ -100,7 +100,7 @@ The model shows excellent performance.
 
 The following graph shows the training results of the CNN model.
 
-![Training Results](assets/training_results.png)
+![Training Results](training_results.png)
 
 The graph includes:
 
