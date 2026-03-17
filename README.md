@@ -37,6 +37,7 @@ Streamlit Dashboard
 
 FastAPI API  
 [https://your-api-render-url.onrender.com](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
+
 API Documentation  
 [https://your-api-render-url.onrender.com/docs](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
 
