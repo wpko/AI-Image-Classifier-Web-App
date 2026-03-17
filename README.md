@@ -30,6 +30,30 @@ This approach provides:
 
 ---
 
+# Live Demo
+
+Streamlit Dashboard  
+[https://your-streamlit-render-url.onrender.com](https://ai-sentiment-analysis-dashboard-streamlit.onrender.com)
+
+FastAPI API  
+[https://your-api-render-url.onrender.com](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
+API Documentation  
+[https://your-api-render-url.onrender.com/docs](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
+
+---
+
+# Screenshot
+
+## Screenshot
+
+![Dashboard](dashboard/fastAPI.png)
+![Dashboard](dashboard/streamlit.png)
+![Dashboard](dashboard/streamlit1.png)
+![Dashboard](dashboard/streamlit2.png)
+
+---
+
+
 ## Model Architecture
 
 The image classifier is built using **MobileNetV2 Transfer Learning**.
