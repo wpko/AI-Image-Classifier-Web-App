@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from PIL import Image
 
-API_URL = "http://127.0.0.1:8000/predict"
+API_URL = "https://ai-image-classifier-web-app-fastapi-an8f.onrender.com"
 
 st.title("AI Image Classifier")
 uploaded_file = st.file_uploader("Upload an image",type=['jpg','png','jpeg'])
