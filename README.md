@@ -102,12 +102,11 @@ The following graph shows the training results of the CNN model.
 
 ![Training Results](training_results.png)
 
-The graph includes:
 
-- Training Accuracy
-- Validation Accuracy
-- Training Loss
-- Validation Loss
+The graph shows training and validation performance:
+
+- 🔵 Blue line → Training Accuracy / Loss  
+- 🟠 Orange line → Validation Accuracy / Loss
 
 ---
 
