@@ -41,6 +41,9 @@ FastAPI API
 API Documentation  
 [https://your-api-render-url.onrender.com/docs](https://ai-image-classifier-web-app-fastapi-an8f.onrender.com)
 
+## ⚠️ Important: Please run the FastAPI backend first before using the Streamlit app.
+## ⚠️ Otherwise, the app will not return any responses.
+
 ---
 
 # Screenshot
